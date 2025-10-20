@@ -1,5 +1,4 @@
-# Forklift
- A Smart Database Design for a Food Delivery System
+# ENPM 818T ‑ Final Project (Group 4) 
 Hybrid Relational + Document Data Store for an ForkLift
 > University of Maryland – Spring 2025  
 
