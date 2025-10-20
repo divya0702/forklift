@@ -28,6 +28,7 @@ The deliverable includes:
 * **Document‑oriented collections** mirroring menu & review domains.  
 * Conceptual (CDM) and Logical (LDM) data‑model diagrams.  
 * A 13‑page report summarizing design choices, trade‑offs, and performance outlook.
+* [Presentation Link](https://prezi.com/view/08WFcaOigYoomsvum1Dm/)
 
 ---
 
