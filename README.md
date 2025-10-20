@@ -36,14 +36,14 @@ The deliverable includes:
 ```
 Final Project/
 ├── ENPM818T - Final Project Report.pdf        # design & results write‑up
-├── ENPM818T_Relational/                       # MySQL artefacts
+├── Relational/                                # MySQL artefacts
 │   ├── forklift.sql                           # DDL – builds whole schema
 │   ├── insert_forklift.sql                    # sample data (~150 rows)
 │   ├── ENPM818T(Final)-CDM.jpg                # conceptual ER diagram
 │   ├── ENPM818T(Final)-LDM.jpg                # logical ER diagram
 │   └── query_demonstration.sql                # 20+ CRUD & analytics queries
 │            
-└── ENPM818T_Documents/                        # MongoDB artefacts
+└── Documents/                                 # MongoDB artefacts
     ├── create_collections.js                  # JSON schema + indexes
     ├── Insert_document_data.js                # sample menu & review docs
     ├── document_schema_design.json            # Document Schema Design
